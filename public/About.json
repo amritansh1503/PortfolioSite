@@ -1,0 +1,43 @@
+{
+  "name": "Amritansh Tripathi",
+  "email": "amrittripathi1503@gmail.com",
+  "phone": "+917999757480",
+  "linkedin": "https://www.linkedin.com/in/amritansh-tripathi150304/",
+  "location": "Bhilai, Chhattisgarh, India",
+  "github": "https://github.com/amritansh1503",
+  "bio": "Amritansh Tripathi is a dedicated front-end web developer skilled in building responsive and interactive user interfaces using HTML, CSS, JavaScript, and React. He enjoys crafting clean, modern web experiences that are both functional and visually appealing. With a solid understanding of React's component-based architecture, Amritansh develops dynamic single-page applications and emphasizes writing efficient, maintainable code. He's passionate about turning designs into pixel-perfect, responsive websites and constantly works to improve user experience.",
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Information Technology",
+      "institution": "Bhilai Institute of Technology",
+      "duration": "Nov 2021 - July 2025",
+      "percentage": 80
+    },
+    {
+      "degree": "AISSCE (Class XII)",
+      "institution": "Krishna Public School",
+      "duration": "2020 - 2021",
+      "percentage": 93.6
+    },
+    {
+      "degree": "AISSE (Class X)",
+      "institution": "Krishna Public School",
+      "duration": "2018 - 2019",
+      "percentage": 92.8
+    }
+  ],
+  "experience": [
+    {
+      "role": "Intern",
+      "company": "Innodeed Systems",
+      "location": "Remote",
+      "duration": "Jun 2023 - Aug 2023",
+      "link": "https://www.linkedin.com/posts/amritansh-tripathi150304_internshipexperience-innodeedsystems-careergrowth-activity-7163938078485606400-OShz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0QntcBFD4jkR-HIWAaym0_1nwEZ05lovQ",
+      "responsibilities": [
+        "Gained proficiency in Advanced Python and Machine Learning during training.",
+        "Co-developed a Best Face Angle Recognition project, improving facial recognition accuracy by 15%.",
+        "Applied project management, teamwork, and problem-solving skills in a professional environment."
+      ]
+    }
+  ]
+}

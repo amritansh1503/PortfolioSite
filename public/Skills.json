@@ -1,0 +1,23 @@
+{
+    "programming_skills": {
+      "languages": [
+        "Python",
+        "C/C++",
+        "SQL"
+      ],
+      "frameworks": [
+        "HTML/CSS",
+        "Django",
+        "React",
+        "JavaScript"
+      ],
+      "tools_and_databases": [
+        "Pandas",
+        "NumPy",
+        "IDEs",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+      ]
+    }
+  }

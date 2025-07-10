@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Best Face Angle Detector",
+      "technologies": ["Python", "Machine Learning"],
+      "description": "Developed a system to improve facial recognition accuracy by detecting optimal face angles, achieving a 15% improvement in accuracy.",
+      "achievements": [
+        "Designed algorithms to analyze facial features, reducing error rate in angle detection by 20%.",
+        "Managed project stages and presented findings to stakeholders, achieving a 95% satisfaction rate."
+      ]
+    },
+    {
+      "title": "Hindi Spell Checker Web Application",
+      "technologies": ["Python", "Flask", "HTML"],
+      "description": "Created an accessible tool for accurate Hindi spell correction, enhancing user engagement by 40%.",
+      "achievements": [
+        "Improved code efficiency by 30% through string manipulation and algorithms.",
+        "Deployed 3 web applications, reducing loading times by 15%.",
+        "Applied Levenshtein distance for spell correction, reducing error rates by 25%."
+      ]
+    }
+  ]
